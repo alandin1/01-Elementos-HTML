@@ -1,12 +1,10 @@
-# Fundamentos de programación
+# Fundamentos de Programación 
 
-## Elementos HTML
-
+## Elementos html
 Ejemplos de uso de los principales elementos de HTML
 
-**Contenido**
-
-- Encabezados
+**Contenido** 
+- Encabezado
 - Párrafos
 - Listas
 - Tablas
